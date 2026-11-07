@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://bolonka001-arch.github.io/natalya-english/sitemap.xml
